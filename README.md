@@ -6,12 +6,12 @@ M11: Assignment l Exploring Deep Learning Architectures
 **Date:** 4/7/2026
 
 ## Assignment Overview
-Part A: Multilayer Perceptron
-1.	Dataset: Use the MNIST
-Part B: Implement Convolutional Neural Network
-1.	Dataset: Fashon MNIST
-Part C: Experiment with a Recurrent Neural Network
-1.	Dataset: IMDB keras dataset
+1. Part A: Multilayer Perceptron
+  Dataset: Use the MNIST
+3. Part B: Implement Convolutional Neural Network
+  Dataset: Fashon MNIST
+4. Part C: Experiment with a Recurrent Neural Network
+   Dataset: IMDB keras dataset
   
 ## Reflection
 
